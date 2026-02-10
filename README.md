@@ -130,3 +130,4 @@ Llamamos al main para poder ejecutar el programa
 if __name__ == "__main__":
     ft.app(target=main)
 ``` 
+<img width="300" height="500" alt="image" src="https://raw.githubusercontent.com/24680262/unidad1/refs/heads/main/calculadora%20flet.png" />
